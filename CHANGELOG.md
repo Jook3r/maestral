@@ -1,3 +1,10 @@
+## v1.9.6
+
+#### Fixed:
+
+- Fixed a multithreading issue that under rare circumstances could lead to a deadlock
+  when using the macOS GUI.
+
 ## v1.9.5
 
 #### Changed:
